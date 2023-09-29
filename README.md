@@ -1,16 +1,5 @@
-# ebus
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+hi sir, this is my flutter project, sorry for late submission it tooks me some time to create my flutter project
+as the technology and framework is new to me and not gonna lie very complicated, to be honest i wasn't able to 
+complete the project, first reason is the language itself, second and worst is my pc keeps shutting down
+delaying my project making maybe because the android studio is too heavy for my pc to handle.
+im sorry sir for the late and incomplete project. :<
