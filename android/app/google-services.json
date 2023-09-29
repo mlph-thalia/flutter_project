@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532230867981",
+    "project_id": "equipment-app-1fc57",
+    "storage_bucket": "equipment-app-1fc57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532230867981:android:9e11579f8b36ff3b549944",
+        "android_client_info": {
+          "package_name": "com.example.ebus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dwfWM0qAiJwAt_xX03MpDD-Nq9UkDzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
